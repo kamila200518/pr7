@@ -1,0 +1,17 @@
+#ball {
+    transition: all 0.5s;
+    transform: rotate(angle);
+    width: 100px;
+}
+button{
+    margin-top: 100px;
+    background-color: pink;
+    padding: 5px;
+    margin-right: 10px;
+    border-radius: 30px;
+    border: none;
+    
+}
+#text{
+    font-size: 30px;
+}
